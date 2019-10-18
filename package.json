@@ -1,0 +1,19 @@
+{
+  "name": "passport-fusionauth",
+  "version": "1.0.0",
+  "description": "Oauth Strategy to autenticate with fusionauth identity provider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Oauth2"
+  ],
+  "author": "Armando Carracedo",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "passport-oauth2": "^1.5.0",
+    "request": "^2.88.0"
+  }
+}
